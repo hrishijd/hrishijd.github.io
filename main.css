@@ -1,0 +1,44 @@
+body{
+	background-image: url("imgbg.jpg");
+    color: #87ceeb;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#Home{
+	padding: 20px;
+	text-align: center;
+	background-color: #f2f2f2;
+	margin-bottom: 20px;
+}
+
+#About,#Certificates{
+	background-color: #CCE5FF;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+.Home-desc, .About-desc{
+display:flex;
+align-items:center;
+}
+#Skills{
+	padding : 20px;
+	background-color: #f2f2f2;
+	margin-bottom: 20px;
+}
+#Skills progress{	
+	width: 100%;
+}
+#Hobbies{
+	background-color: #f2f2f2;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+#Contact{
+	padding: 20px;
+}
+.nw img{
+	width: 30%;
+}

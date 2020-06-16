@@ -1,5 +1,5 @@
 body{
-	background-image: url("imgbg.jpg");
+	background-image: url("/imgbg.jpg");
     color: #87ceeb;
     background-position: center center;
     background-size: cover;

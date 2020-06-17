@@ -2,9 +2,10 @@ body{
 	background-image: url("imgbg.jpg");
     color: #87ceeb;
     background-position: center center;
-    background-size: cover;
+    background-size: cover ;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    height:100%;
 }
 
 #Home{
